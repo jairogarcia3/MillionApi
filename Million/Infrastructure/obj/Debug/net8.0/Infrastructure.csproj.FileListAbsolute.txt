@@ -1,0 +1,17 @@
+C:\Million\Infrastructure\bin\Debug\net8.0\Infrastructure.deps.json
+C:\Million\Infrastructure\bin\Debug\net8.0\Infrastructure.dll
+C:\Million\Infrastructure\bin\Debug\net8.0\Infrastructure.pdb
+C:\Million\Infrastructure\obj\Debug\net8.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Million\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Million\Infrastructure\obj\Debug\net8.0\Infrastructure.AssemblyInfo.cs
+C:\Million\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Million\Infrastructure\obj\Debug\net8.0\Infrastructure.dll
+C:\Million\Infrastructure\obj\Debug\net8.0\refint\Infrastructure.dll
+C:\Million\Infrastructure\obj\Debug\net8.0\Infrastructure.pdb
+C:\Million\Infrastructure\obj\Debug\net8.0\ref\Infrastructure.dll
+C:\Million\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
+C:\Million\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Million\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+C:\Million\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+C:\Million\Infrastructure\bin\Debug\net8.0\Domain.dll
+C:\Million\Infrastructure\bin\Debug\net8.0\Domain.pdb
